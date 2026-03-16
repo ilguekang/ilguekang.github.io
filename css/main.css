@@ -29,11 +29,11 @@ body{
 /* 상단이미지 */
 .bg-main-top{
     position: relative;
-    background-image: url(../img/sky/sky_2.jpg);
+    background-image: url(../img/nature/nature_2.jpg);
 }
 .bg-main-middle{
     position: relative;
-    background-image: url(../img/urban/urban_4.jpg);
+    background-image: url(../img/sky/sky_2.jpg);
 }
 
 .img-fluid{
